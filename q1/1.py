@@ -1,6 +1,6 @@
-from shared import read_txt_single_col_nums, get_permutations_with_sum
-from itertools import permutations
 import os
+
+from q1.shared import read_txt_single_col_nums, get_permutations_with_sum
 
 
 def main():
